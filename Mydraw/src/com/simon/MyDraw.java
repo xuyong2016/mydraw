@@ -98,6 +98,7 @@ public class MyDraw extends JFrame implements MouseListener,
 	}
 
 	public static void main(String[] args) {
+		int x,y;
 		MyDraw mydraw = new MyDraw();
 		mydraw.setVisible(true);
 
